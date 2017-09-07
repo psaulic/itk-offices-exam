@@ -1,0 +1,36 @@
+hr {
+  border-color: #8d8959
+}
+
+.list-item {
+  padding: 5px;
+  margin: 10px;
+  background-color: #31302c;
+  color: #b4b18d;
+  height: 120px;
+}
+
+.list-item-photo {
+  margin-right: 10px;
+  margin-left: 10px;
+  margin: 10px;
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+.list-item-text {
+  height: 120px;
+  text-overflow: ellipsis;
+}
+
+.list-item-title {
+  margin-top: 5px;
+  color: #b4b18d;
+}
+
+.list-item-description {
+  margin-top: 3px;
+  color: #6f6d56;
+  padding: 2px;
+}
